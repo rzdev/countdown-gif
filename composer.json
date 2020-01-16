@@ -1,5 +1,5 @@
 {
-    "name": "astrotomic/countdown-gif",
+    "name": "rzdev/countdown-gif",
     "description": "Countdown-Gif generator",
     "keywords": ["gif", "countdown", "imagick"],
     "license": "MIT",
